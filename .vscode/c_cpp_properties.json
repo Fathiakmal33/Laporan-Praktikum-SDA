@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Administrator\\Downloads\\Programs\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Users/Administrator/Downloads/Programs/MinGW/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
